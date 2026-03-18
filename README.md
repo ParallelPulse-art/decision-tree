@@ -89,3 +89,7 @@ Response:
 - **Algorithm:** Random Forest (100 trees)
 - **Accuracy:** ~84%
 - **Features:** Passenger class, sex, age, siblings/spouses, parents/children, fare, port of embarkation
+
+## 🚢 Live Demo
+
+👉 [Titanic Survival Predictor](https://decision-tree-txs3.onrender.com/)
